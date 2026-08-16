@@ -1,5 +1,11 @@
 # 白泽明理 · Formal eXplainable AI
 
-Enterprise AI consulting: access, engineering, delivery.
+Shanghai consultancy for enterprise AI adoption and process redesign.
 
-Website: https://fxai.ai
+We design the path: diagnose → access → engineer → deliver → compound.  
+Client teams execute. We do not sell trading tools or write your production code.
+
+- Website: https://fxai.ai
+- Method: https://fxai.ai/method/
+- SOP (public): https://github.com/SmartStudio/enterprise-ai-sop
+- Contact: fxai.labs@gmail.com
