@@ -1,31 +1,11 @@
-<p align="center">
-  <img src="./mark.png" alt="" width="168">
-</p>
+<img src="./overview.png" alt="白泽明理 · Formal eXplainable AI · https://fxai.ai · 杭州企业 AI 咨询. Hangzhou, China. 杭州及远程. 诊断、接入、工程、交付、沉淀." width="960">
 
-# 白泽明理
+We design the path for enterprise AI adoption and process redesign. Client teams execute.
 
-Formal eXplainable AI
+Diagnose · Access · Engineer · Deliver · Compound.
 
-杭州企业 AI 咨询 · https://fxai.ai
-
-Hangzhou, China. 杭州及远程.
-
-AI Consulting, IT Consulting. The work is a method, not a product. We design the path for enterprise AI adoption and process redesign. Client teams execute.
-
-Write the boundary before you automate. Each stage has an exit test. If the test fails, stay.
-
-| Order | English | 中文 |
-| --- | --- | --- |
-| 1 | Diagnose | 诊断 |
-| 2 | Access | 接入 |
-| 3 | Engineer | 工程 |
-| 4 | Deliver | 交付 |
-| 5 | Compound | 沉淀 |
+Write the boundary before you automate. If a stage fails its exit test, stay.
 
 We do not sell trading tools or write your production code.
 
-- [Method](https://fxai.ai/method/)
-- [Public SOP](https://github.com/SmartStudio/enterprise-ai-sop)
-- [contacts@fxai.ai](mailto:contacts@fxai.ai)
-
-The public SOP is a consulting blueprint, not the website.
+[Method](https://fxai.ai/method/) · [Public SOP](https://github.com/SmartStudio/enterprise-ai-sop) · [contacts@fxai.ai](mailto:contacts@fxai.ai)
